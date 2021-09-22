@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JBJoxnXPqhspBWHdlZVhnGnmftFmdy2rjdsEb52Tzf/MTavX2ZE9hDPT67UFELHKYlNZXzFuZs5HPfZYIkfArw==",
+  "success": true,
+  "projectFilePath": "D:\\Informatica\\9no Semestre\\INF-319\\Ejemplos\\f#\\5\\5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
